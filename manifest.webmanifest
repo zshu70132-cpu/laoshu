@@ -1,0 +1,10 @@
+{
+  "name": "老树提词器",
+  "short_name": "老树提词器",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#090909",
+  "theme_color": "#090909",
+  "lang": "zh-CN",
+  "description": "简约的悬浮口播提词器"
+}
